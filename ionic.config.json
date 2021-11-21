@@ -1,0 +1,8 @@
+{
+  "name": "Lime",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
